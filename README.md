@@ -36,7 +36,8 @@ The weather dashboard achieves its functionality by utilizing form inputs for ci
 ## Usage
 
 
-![image]()
+![image](![image](https://github.com/carlosamorales/Weather--Dashboard-Carlos-Challenge6-Server-Side-APIs/assets/7796766/b4d5baca-8dc9-4bee-98a9-5e24a970e3dc)
+
 
 
 
