@@ -30,13 +30,13 @@ The weather dashboard achieves its functionality by utilizing form inputs for ci
 
 
 ## Installation
-**Link to the page:** [BreadcrumbsWeather--Dashboard-Carlos-Challenge6-Server-Side-APIs][(https://carlosamorales.github.io/Carlos-Work-Day-Scheduler/)](https://carlosamorales.github.io/Carlos-Work-Day-Scheduler/)
+**Link to the page:** [BreadcrumbsWeather--Dashboard-Carlos-Challenge6-Server-Side-APIs][(https://carlosamorales.github.io/Weather--Dashboard-Carlos-Challenge6-Server-Side-APIs/)
 
 
 ## Usage
 
 
-![image](https://github.com/carlosamorales/Carlos-Work-Day-Scheduler/assets/7796766/93036d1f-b3c5-448e-8904-bbdac2762d7e)
+![image]()
 
 
 
